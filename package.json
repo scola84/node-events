@@ -1,0 +1,13 @@
+{
+  "name": "scola-events",
+  "version": "1.0.0",
+  "description": "Bind/proxy event handlers to class objects",
+  "keywords": ["event", "handling", "proxy"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scola84/node-events.git"
+  },
+  "author": "M.C. van den Boogaart <scola@kvdb.name>",
+  "license": "MIT",
+  "main": "index.js"
+}
