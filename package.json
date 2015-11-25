@@ -1,8 +1,8 @@
 {
   "name": "scola-events",
   "version": "1.0.0",
-  "description": "Bind/proxy event handlers to class objects",
-  "keywords": ["event", "handling", "proxy"],
+  "description": "Event Handling",
+  "keywords": ["event", "handling"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scola84/node-events.git"
