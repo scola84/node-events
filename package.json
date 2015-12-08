@@ -1,5 +1,5 @@
 {
-  "name": "scola-events",
+  "name": "@scola/events",
   "version": "1.0.0",
   "description": "Event Handling",
   "keywords": ["event", "handling"],
