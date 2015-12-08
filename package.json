@@ -9,5 +9,16 @@
   },
   "author": "M.C. van den Boogaart <scola@kvdb.name>",
   "license": "MIT",
-  "main": "index.js"
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      [
+        "babelify", {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ]
+    ]
+  }
 }
