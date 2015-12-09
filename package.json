@@ -2,7 +2,10 @@
   "name": "@scola/events",
   "version": "1.0.0",
   "description": "Event Handling",
-  "keywords": ["event", "handling"],
+  "keywords": [
+    "event",
+    "handling"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scola84/node-events.git"
@@ -20,5 +23,9 @@
         }
       ]
     ]
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babelify": "^7.2.0"
   }
 }
