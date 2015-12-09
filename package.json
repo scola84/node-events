@@ -1,6 +1,6 @@
 {
   "name": "@scola/events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Event Handling",
   "keywords": [
     "event",
@@ -16,7 +16,8 @@
   "browserify": {
     "transform": [
       [
-        "babelify", {
+        "babelify",
+        {
           "presets": [
             "es2015"
           ]
