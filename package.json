@@ -1,32 +1,12 @@
 {
-  "name": "@scola/events",
-  "version": "1.2.1",
-  "description": "Event Handling",
-  "keywords": [
-    "event",
-    "handling"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/scola84/node-events.git"
-  },
+  "name": "@scola/api-ws",
+  "version": "1.2.2",
+  "description": "Binding EventEmitter",
+  "repository": "github:scola84/node-events",
   "author": "M.C. van den Boogaart <scola@kvdb.name>",
   "license": "MIT",
   "main": "index.js",
-  "browserify": {
-    "transform": [
-      [
-        "babelify",
-        {
-          "presets": [
-            "es2015"
-          ]
-        }
-      ]
-    ]
-  },
   "devDependencies": {
-    "babel-preset-es2015": "^6.3.13",
-    "babelify": "^7.2.0"
+    "babel-preset-es2015": "^6.9.0"
   }
 }

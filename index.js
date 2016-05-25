@@ -1,3 +1,3 @@
-'use strict';
-
-module.exports = require('./lib/event-handler');
+module.exports = {
+  EventEmitter: require('./lib/event-emitter')
+};
