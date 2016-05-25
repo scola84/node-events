@@ -1,6 +1,6 @@
 {
   "name": "@scola/events",
-  "version": "1.2.2",
+  "version": "2.0.0",
   "description": "Binding EventEmitter",
   "repository": "github:scola84/node-events",
   "author": "M.C. van den Boogaart <scola@kvdb.name>",
