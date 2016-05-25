@@ -1,5 +1,5 @@
 {
-  "name": "@scola/api-ws",
+  "name": "@scola/events",
   "version": "1.2.2",
   "description": "Binding EventEmitter",
   "repository": "github:scola84/node-events",
