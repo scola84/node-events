@@ -98,5 +98,7 @@ export default class EventEmitter {
     if (this._listeners[event].length > this._maxListeners) {
       throw new Error('More than ' + this._maxListeners + ' listeners added');
     }
+
+    return this;
   }
 }
