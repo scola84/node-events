@@ -16,7 +16,7 @@ export default class EventEmitter {
       return this;
     }
 
-    this._listeners[event].forEach((listener) => {
+    Array.from(this._listeners[event]).forEach((listener) => {
       listener(...args);
     });
 
