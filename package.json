@@ -1,6 +1,6 @@
 {
   "name": "@scola/events",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "EventEmitter",
   "repository": "github:scola84/node-events",
   "author": "M.C. van den Boogaart <scola@kvdb.name>",
